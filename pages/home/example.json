@@ -1,0 +1,74 @@
+[
+    {
+        "nik": "12345",
+        "nama": "John Doe",
+        "status_kerja": "Karyawan Tetap",
+        "posisi": "Programmer",
+        "tanggal_penilaian": "2023-10-15",
+        "tanggung_jawab": 4,
+        "kerja_sama": 5,
+        "manajemen_waktu": 4,
+        "total": 13,
+        "nilai": "Cukup"
+    },
+    {
+        "nik": "67890",
+        "nama": "Jane Smith",
+        "status_kerja": "Karyawan Kontrak",
+        "posisi": "Designer",
+        "tanggal_penilaian": "2023-10-15",
+        "tanggung_jawab": 3,
+        "kerja_sama": 4,
+        "manajemen_waktu": 3,
+        "total": 10,
+        "nilai": "Baik"
+    },
+    {
+        "nik": "12345",
+        "nama": "John Doe",
+        "status_kerja": "Karyawan Tetap",
+        "posisi": "Programmer",
+        "tanggal_penilaian": "2023-10-15",
+        "tanggung_jawab": 4,
+        "kerja_sama": 5,
+        "manajemen_waktu": 4,
+        "total": 13,
+        "nilai": "Cukup"
+    },
+    {
+        "nik": "67890",
+        "nama": "Jane Smith",
+        "status_kerja": "Karyawan Kontrak",
+        "posisi": "Designer",
+        "tanggal_penilaian": "2023-10-15",
+        "tanggung_jawab": 3,
+        "kerja_sama": 4,
+        "manajemen_waktu": 3,
+        "total": 10,
+        "nilai": "Baik"
+    },
+    {
+        "nik": "12345",
+        "nama": "John Doe",
+        "status_kerja": "Karyawan Tetap",
+        "posisi": "Programmer",
+        "tanggal_penilaian": "2023-10-15",
+        "tanggung_jawab": 4,
+        "kerja_sama": 5,
+        "manajemen_waktu": 4,
+        "total": 13,
+        "nilai": "Cukup"
+    },
+    {
+        "nik": "67890",
+        "nama": "Jane Smith",
+        "status_kerja": "Karyawan Kontrak",
+        "posisi": "Designer",
+        "tanggal_penilaian": "2023-10-15",
+        "tanggung_jawab": 3,
+        "kerja_sama": 4,
+        "manajemen_waktu": 3,
+        "total": 10,
+        "nilai": "Baik"
+    }
+]
